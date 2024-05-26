@@ -16,6 +16,8 @@ This page provides an extensive overview, including:
 - Most used umpires
 - Qualifying teams per season
 Using interactive charts, users can dive deep into the statistics and trends of the IPL. 📊📈
+![Screenshot (147)](https://github.com/JAINAM576/Ipl_Dashboard/assets/85880788/27073c4c-c7ed-4631-adbc-acd006e7654d)
+
 
 ## 🔹 Team Profile Page
 Detailed insights into each team's performance with features such as:
@@ -24,6 +26,8 @@ Detailed insights into each team's performance with features such as:
 - Venue performance: matches played, wins, and win percentage at each venue
 - Overall match performance: total matches, wins, and win percentage
 These insights are presented in various tables and charts for easy understanding and analysis. 🏆📊
+![Screenshot (148)](https://github.com/JAINAM576/Ipl_Dashboard/assets/85880788/b0cb493b-14df-4236-8132-c780f7eb82ed)
+
 
 ## 🔹 Player Profile Page
 Focused on individual player performances, this page includes:
@@ -31,5 +35,7 @@ Focused on individual player performances, this page includes:
 - Top 5 wicket-takers per season
 - Top 5 run-scorers per season
 The data is visualized through detailed charts, making it easy to compare and analyze player performances. 🌟📈
+![Screenshot (149)](https://github.com/JAINAM576/Ipl_Dashboard/assets/85880788/a2d96e78-6cbd-48a6-b487-a954274231b2)
+
 
 Throughout the creation of this Power BI dashboard, I've gained valuable skills in measures, column transformers, power queries, relationships between columns, various useful functions, and interactive navigation between pages. 📚🔍
